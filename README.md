@@ -8,7 +8,7 @@ Assim, no decorrer do desenvolvimento vamos buscar diferentes formas de gerar jo
 
 ![Alt Jogo da Velha](imagens/tabuleiro.jpg)
 
-## Algumas observações sobre o script
+## Algumas observações sobre o código
 
   * Visando oferecer uma melhor compreensão do código eu optei por refatorar todo o loop principal de jogo, deixando o código mais limpo e o fluxo da lógica mais claro. Com isso, o script ficou um pouco maior que o código inicial que fiz.
   * Também defini dois tipos de jogadores: `Principal` e `Secundário`. O jogador principal representa o usuário. Já o jogador secundário representa a "máquina".
